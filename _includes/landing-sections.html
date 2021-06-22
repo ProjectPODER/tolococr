@@ -1,29 +1,27 @@
-<section class="">
+{% for home-section in site.home %}
+{% capture id %}{{ home-section.id | remove:'/' | remove:'home' | downcase }}{% endcapture %}
+<section style="{% if home-section.background-color %}background-color: {{home-section.background-color}}{% endif %}; {% if home-section.text-color %}color: {{home-section.text-color}}{% endif %}">
   <div class="container">
     <div class="row w-100">
       <div class="col-lg-12">
-        {% for home-section in site.home %}
-        {% capture id %}{{ home-section.id | remove:'/' | remove:'home' | downcase }}{% endcapture %}
-        <div class="section">
-          <div class="container">
-            <div class="row align-items-center">
-              {%- if home-section.image -%}
-              <div class="col-lg-5 col-md-5 col-sm-12">
-                {{ home-section.content }}
-              </div>
-              <div class="col-lg-7 col-md-7 col-sm-12 text-center">
-                <img data-src="{{ site.baseurl }}/assets/img/{{home-section.image}}" class="img-fluid">
-              </div>
-              {%- else -%}
-              <div class="col-lg-12 col-md-12 col-sm-12 text-center">
-                {{ home-section.content }}
-              </div>
-              {%- endif -%}
-            </div>
+
+        <div class="row align-items-center">
+          {%- if home-section.image -%}
+          <div class="col-lg-6 col-md-6 col-sm-12 {% if home-section.image-left == true %}order-1{% endif %}">
+            {{ home-section.content }}
           </div>
+          <div class="col-lg-6 col-md-6 col-sm-12 text-center">
+            <img src="{{ site.baseurl }}/assets/img/{{home-section.image}}" class="img-fluid">
+          </div>
+          {%- else -%}
+          <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+            {{ home-section.content }}
+          </div>
+          {%- endif -%}
         </div>
-        {% endfor %}
+
       </div>
     </div>
   </div>
 </section>
+{% endfor %}

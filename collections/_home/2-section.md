@@ -1,8 +1,11 @@
 ---
-title: Intro
+title: section
 image: graphic-example1.png
+image-left: true
+background-color: "#000000"
+text-color: "#ffffff"
 ---
 
-# THIS IS THE INTRO
+# THIS IS A SECTION
 
 Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
