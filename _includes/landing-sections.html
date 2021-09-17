@@ -1,7 +1,7 @@
 {% for home-section in site.home %}
 {% capture id %}{{ home-section.id | remove:'/' | remove:'home' | downcase }}{% endcapture %}
-<section style="{% if home-section.background-color %}background-color: {{home-section.background-color}}{% endif %}; {% if home-section.text-color %}color: {{home-section.text-color}}{% endif %}">
-  <div class="container">
+<section {% if home-section.main-section == true %} class="home-content text-center"{% endif %} style="{% if home-section.background-color %}background-color: {{home-section.background-color}};{% endif %} {% if home-section.text-color %}color: {{home-section.text-color}};{% endif %}">
+  <div class="container {% if home-section.main-section == true %}d-flex flex-wrap h-100 align-items-center justify-content-center{% endif %}">
     <div class="row w-100">
       <div class="col-lg-12">
         <div class="row align-items-center">

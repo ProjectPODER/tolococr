@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: default
 title: Home
 permalink: /
----
+--- -->
 <!-- COVER -->
 {% capture cover %}
 # THIS IS THE FIRST TITLE
