@@ -110,6 +110,8 @@ collections:
     output: true
   home:
     output: true
+  footer:
+    output: true
 
 # Set to false to hide excerpts on the posts page
 show_excerpts: true

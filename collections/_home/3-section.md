@@ -1,13 +1,14 @@
 ---
-title: section
+title: Municipalidad
 image: graphic-example1.png
-image-left: true
-background-color: "#000567"
-text-color: "#ffffff"
+one-column-section: true
+image-left: false
+background-color: "#ffffff"
+text-color: "#333333"
 
 articles: true
 articles-section:
-  background-color: "#000000"
+  background-color: "#EFEFEF"
 article-content:
   title: Título de la nota
   author: Marisol Carrillo
@@ -24,6 +25,9 @@ article-content2:
   link: https://github.com/ProjectPODER
 ---
 
-# THIS IS A SECTION
+{:.text-center}
+## MUNICIPALIDAD
+
+Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
 
 Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
