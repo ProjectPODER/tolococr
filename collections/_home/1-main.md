@@ -2,7 +2,18 @@
 layout: home
 title: Inicio
 main-section: true
+# Media section
+media: false
+media-type:
+  image:
+  iframe:
+  video:
+# Column options
 one-column-section: true
+two-columns-section: false
+# If two columns is true
+# Media position
+media-left: false
 
 ---
 

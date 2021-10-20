@@ -1,14 +1,21 @@
 ---
 title: section
+cta-button-section: true
+button:
+  link: "https://projectpoder.github.io/tolococr/"
+  text: "Botón"
+# Highlight section options
+highlight-section: true
+highlight-section-background: "#006607"
 # Media section
-media: true
+media: false
 media-type:
-  image: graphic-example1.png
+  image:
   iframe:
   video:
 # Column options
-one-column-section: false
-two-columns-section: true
+one-column-section: true
+two-columns-section: false
 # If two columns is true
 # Media position
 media-left: false
@@ -17,7 +24,7 @@ background-color: "#ffffff"
 text-color: "#ffffff"
 
 ---
-
-### Cat ipsum dolor sit amet, that box
+{:.text-center}
+## HIGHLIGHT SECTION
 
 Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
