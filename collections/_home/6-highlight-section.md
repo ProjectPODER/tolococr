@@ -1,5 +1,5 @@
 ---
-title: section
+title: Highlight
 cta-button-section: true
 button:
   link: "https://projectpoder.github.io/tolococr/"

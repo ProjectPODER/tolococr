@@ -1,5 +1,5 @@
 ---
-title: Municipalidad
+title: Sobre el proyecto
 cta-button-section: false
 button:
   link: "https://projectpoder.github.io/tolococr/"

@@ -60,6 +60,8 @@ graph:
   # csv: a csv file
   - contracts_format: "csv"
 
+# Allow top menu
+top_menu: false
 # Customize the More information menu button title
 menu_button_title: More information
 
