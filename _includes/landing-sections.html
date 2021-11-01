@@ -1,6 +1,6 @@
 {% for home-section in site.home %}
 <!-- {% capture id %}{{ home-section.id | remove:'/' | remove:'home' | downcase }}{% endcapture %} -->
-{% capture title %}{{ home-section.title | remove:'/' | remove:'home' | remove:' ' | downcase }}{% endcapture %}
+{% capture title %}{{ home-section.title | remove:'/' | remove:'home' | slugify: "latin" | downcase }}{% endcapture %}
 <section
   id="{{title}}"
   class="py-5
@@ -33,10 +33,17 @@
             </div>
 
             {% elsif home-section.media-type['iframe'] %}
-            <div class="embed-responsive embed-responsive-16by9">
+            <style>
+              .embed-responsive-customized::before{padding-top: {{home-section.iframe-size['xl-size']}};}
+              @media (min-width: 1280px) {.embed-responsive-customized::before {padding-top: {{home-section.iframe-size['xl-size']}};}}
+              @media (max-width: 1279px){.embed-responsive-customized::before {padding-top: {{home-section.iframe-size['lg-size']}};}}
+              @media (max-width: 992px){.embed-responsive-customized::before {padding-top: {{home-section.iframe-size['md-size']}};}}
+              @media (max-width: 768px){.embed-responsive-customized::before {padding-top: {{home-section.iframe-size['sm-size']}};}}
+              @media (max-width: 576px){.embed-responsive-customized::before {padding-top: {{home-section.iframe-size['xs-size']}};}}
+            </style>
+            <div class="embed-responsive embed-responsive-customized">
               <iframe class="embed-responsive-item" src="{{home-section.media-type['iframe']}}" allowfullscreen></iframe>
             </div>
-
             {%- endif -%}
           </div>
         {%- endif -%}
@@ -60,10 +67,19 @@
           </div>
 
           {% elsif home-section.media-type['iframe'] %}
-          <div class="embed-responsive embed-responsive-1by1">
+          <style>
+              .embed-responsive-customized::before{padding-top: {{home-section.iframe-size['xl-size']}};}
+              @media (min-width: 1280px) {.embed-responsive-customized::before {padding-top: {{home-section.iframe-size['xl-size']}};}}
+              @media (max-width: 1279px){.embed-responsive-customized::before {padding-top: {{home-section.iframe-size['lg-size']}};}}
+              @media (max-width: 992px){.embed-responsive-customized::before {padding-top: {{home-section.iframe-size['md-size']}};}}
+              @media (max-width: 768px){.embed-responsive-customized::before {padding-top: {{home-section.iframe-size['sm-size']}};}}
+              @media (max-width: 576px){.embed-responsive-customized::before {padding-top: {{home-section.iframe-size['xs-size']}};}}
+            </style>
+          <div class="embed-responsive embed-responsive-customized">
             <iframe class="embed-responsive-item" src="{{home-section.media-type['iframe']}}" allowfullscreen></iframe>
           </div>
           {%- endif -%}
+
         </div>
         {%- endif -%}
       {%- endif -%}
