@@ -2,7 +2,7 @@
 title: Section 4
 # Media section
 media: true
-media-type:
+media-type: # Fill only one option
   image: graphic-example1.png
   iframe:
   video:

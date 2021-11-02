@@ -1,14 +1,8 @@
 ---
-layout: home
 title: Inicio
 main-section: true
 main-logo: todosloscontratoscr-logo-blanco.png
-# Media section
-media: false
-media-type:
-  image:
-  iframe:
-  video:
+
 # Column options
 one-column-section: true
 two-columns-section: false

@@ -1,5 +1,5 @@
 ---
-title: section 5
+title: Section 5
 # Media section
 media: true
 media-type:
