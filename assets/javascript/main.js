@@ -119,11 +119,11 @@ $(document)
         });
 
         // Add smooth scrolling on all links inside the navbar
-        $(".side-menu a").on('click', function (event) {
+        $(".side-menu a[href^='#']").on('click', function (event) {
             // Make sure this.hash has a value before overriding default behavior
             if (this.hash !== "") {
                 // Prevent default anchor click behavior
-                // event.preventDefault();
+                event.preventDefault();
 
                 // Store hash
                 var hash = this.hash;
@@ -133,7 +133,14 @@ $(document)
                 $('html, body').animate({
                     scrollTop: $(hash).offset().top - 20
                 }, 800, function () {
+                    // when done, add hash to url
+                    // (default click behaviour)
+                    window.location.hash = hash;
                 });
             }  // End if
+        });
+        // Add hash (#) to URL when scrolling
+        $(window).on('activate.bs.scrollspy', function (e) {
+            history.replaceState({}, "", $('.nav-item .active').attr("href"));
         });
     });
