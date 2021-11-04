@@ -13,7 +13,7 @@ media-left: false
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer bibendum, urna accumsan consequat finibus, nibh felis venenatis justo, quis lobortis sapien magna nec tellus. Aliquam erat volutpat. Proin in est vel ipsum cursus pretium porttitor nec magna. Nulla et ullamcorper enim, viverra scelerisque ante. Donec ullamcorper aliquet lorem, sed suscipit est imperdiet at. Praesent sit amet laoreet libero. Vestibulum pellentesque nunc quis ante porttitor, sit amet condimentum ante ultricies.
+TodosLosContratosCR es un espacio/plataforma que agrupa, analiza y evalúa el desempeño de los actos de contratación administrativa alojados en el Sistema Integrado de Compras Públicas (SICOP), con el objetivo de facilitar la rendición de cuentas y la vigilancia ciudadana. Así mismo, la iniciativa se centra en analizar el rendimiento de las instituciones públicas, para promover mejoras, eficiencia e innovación en la ejecución de procesos de contratación administrativa.
 
 [Button](https://towerbuilder.poderlatam.org/)
 [Button](https://towerbuilder.poderlatam.org/?iframe)
