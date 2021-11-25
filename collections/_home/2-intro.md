@@ -57,5 +57,6 @@ Según la OCDE, en el 2020 las compras públicas representaron en Costa Rica un 
 {:.text-center}
 La transparencia es importante en los procesos de contratación puesto que previene la corrupción, provee eficiencia, fomenta los principios de igualdad, publicidad, concurrencia, no discriminación y prohibición de la arbitrariedad de la Administración contratante. Además modifica el comportamiento tanto de los oferentes, los procedimientos y los externos que interactúan con ellos e incrementan la probabilidad de ser descubiertos en caso de cometer una acción contraria a los propósitos comunes (CGR, 2019). 
 {:.text-center}
-{:.text-center}
+
 ### Principales Resultados del Proceso de Analisis 
+{:.text-center}
