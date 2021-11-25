@@ -35,7 +35,7 @@ article-content2:
   author: 
   organization: Organización para la Cooperación y el Desarrollo Económico (OCDE) 
   description: Evaluación de los desafíos claves para el establecimiento de un plan de acción.
-  image: Ocde.jpg
+  image: Portada ocde.jpg
   link: https://www.oecd.org/costarica/Towards-a-new-vision-for-Costa-Rica's-public-procurement-system.pdf 
 
 ---
