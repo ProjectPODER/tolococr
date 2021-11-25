@@ -1,5 +1,5 @@
 ---
-title: Municipalidad
+title: Malas Practicas 
 cta-button-section: true
 button:
   link: "https://projectpoder.github.io/tolococr/"
