@@ -28,7 +28,7 @@ article-content:
   organization: Semanario Universidad 
   description: Datos de la Contraloría General de la República revelan que la mayor parte de las contrataciones provino de municipalidades.
   image: bg-masthead.jpg
-  link: https//semanariouniversidad.com/pais/desde-2018-meco-ha-recibido-contrataciones-del-estado-por-mas-de-¢139-mil-millones/
+  link: https://semanariouniversidad.com/pais/desde-2018-meco-ha-recibido-contrataciones-del-estado-por-mas-de-¢139-mil-millones/
 # Article 2
 article-content2:
   title: Título de la nota 2
