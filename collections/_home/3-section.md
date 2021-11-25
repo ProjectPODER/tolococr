@@ -52,7 +52,7 @@ tan importes muy distintos a los realmente pagados, esto se debe a omisiones de 
 ### 3. Importes sospechosos
 algunos procesos reportan sumas contratadas por un colón o directamente sin monto, lo que afecta los análisis finales.
 
-### 4. Duración de los contratos: 
+### 4. Duración de los contratos
 las instituciones suelen reportar sus contratos en la plataforma con datos que no permiten su comprensión, por ejemplo períodos de contratos en los cuales no se distingue si hace referencia a meses, años, semanas o escasas cuantías.
 
 ### 5. Nombres de los contratos 
