@@ -23,12 +23,12 @@ articles-section:
   background-color: "#EFEFEF"
 # Article 1
 article-content:
-  title: Título de la nota
-  author: Marisol Carrillo
-  organization: PODER
-  description: Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+  title: Desde 2018 MECO ha recibido contrataciones del Estado por más de ¢139 mil millones
+  author: Vinicio Chacón 
+  organization: Semanario Universidad 
+  description: Datos de la Contraloría General de la República revelan que la mayor parte de las contrataciones provino de municipalidades.
   image: bg-masthead.jpg
-  link: https://github.com/ProjectPODER
+  link: https//semanariouniversidad.com/pais/desde-2018-meco-ha-recibido-contrataciones-del-estado-por-mas-de-¢139-mil-millones/
 # Article 2
 article-content2:
   title: Título de la nota 2
