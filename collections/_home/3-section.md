@@ -40,8 +40,25 @@ article-content2:
 ---
 
 {:.text-center}
-## MUNICIPALIDAD
+## Malas practicas 
+Top 6 errores de los datos alojados en SICOP vistos desde el estándar OCDS (Open Contracting Data Standard):
+### Falta de estandarización
+los datos alojados en SICOP carecen de un protocolo de digitación y publicación, lo que genera errores típicos como nombres de instituciones y proveedores escritos con diferencias o números de cédulas en formatos distintos.
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+### Incongruencias entre los montos públicados 
+algunos contratos repor
+tan importes muy distintos a los realmente pagados, esto se debe a omisiones de números, colocación de puntos y comas o errores de digitación. 
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+### Duración de los contratos 
+las instituciones suelen reportar sus contratos en la plataforma con datos que no permiten su comprensión, por ejemplo períodos de contratos en los cuales no se distingue si hace referencia a meses, años, semanas o escasas cuantías.
+
+### Direcciones físicas o domicilios 
+es común que los proveedores, tanto físicos como jurídicos no coloquen con exactitud las direcciones de sus oficinas, lo cual dificulta la comprensión de sus ubicaciones. 
+
+### Nombres de los contratos 
+los títulos de los carteles de contratación en ocasiones no permiten determinar cuál será la obra a realizar. Algunos presentan títulos poco descriptivos o con ambigüedad. 
+
+### Importes sospechosos
+algunos procesos reportan sumas contratadas por un colón o directamente sin monto, lo que afecta los análisis finales. 
+
+
