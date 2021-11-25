@@ -27,7 +27,7 @@ article-content:
   author: Vinicio Chacón 
   organization: Semanario Universidad 
   description: Datos de la Contraloría General de la República revelan que la mayor parte de las contrataciones provino de municipalidades.
-  image: Meco.jpg
+  image: bg-masthead.jpg
   link: https://semanariouniversidad.com/pais/desde-2018-meco-ha-recibido-contrataciones-del-estado-por-mas-de-¢139-mil-millones/
 # Article 2
 article-content2:
@@ -35,7 +35,7 @@ article-content2:
   author: 
   organization: Organización para la Cooperación y el Desarrollo Económico (OCDE) 
   description: Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
-  image: Ocde.jpg
+  image: bg-masthead.jpg
   link: https://www.oecd.org/costarica/Towards-a-new-vision-for-Costa-Rica's-public-procurement-system.pdf 
 
 ---
