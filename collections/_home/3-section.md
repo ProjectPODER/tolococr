@@ -31,10 +31,10 @@ article-content:
   link: https://semanariouniversidad.com/pais/desde-2018-meco-ha-recibido-contrataciones-del-estado-por-mas-de-¢139-mil-millones/
 # Article 2
 article-content2:
-  title: Hacia una nueva visión del Sistema de Contratación Pública de Costa Rica EVALUACIÓN DE LOS DESAFÍOS CLAVE PARA EL ESTABLECIMIENTO DE UN PLAN DE ACCIÓN
+  title: Hacia una nueva visión del Sistema de Contratación Pública de Costa Rica
   author: 
   organization: Organización para la Cooperación y el Desarrollo Económico (OCDE) 
-  description: Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+  description: Evaluación de los desafíos claves para el establecimiento de un plan de acción.
   image: Ocde.jpg
   link: https://www.oecd.org/costarica/Towards-a-new-vision-for-Costa-Rica's-public-procurement-system.pdf 
 
