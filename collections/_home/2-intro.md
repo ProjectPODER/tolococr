@@ -49,14 +49,17 @@ article-content2:
 ---
 
 {:.text-center}
-## Importancia de las contrataciones 
+## Importancia de las contrataciones
 
-La contratación pública es un proceso establecido para el acuerdo entre el oferente y una institución pública para la prestación de un servicio o el suministro de bienes. En el proceso se involucran diversos aspectos, técnicos, presupuestarios y jurídicos, con el fin de cumplir con planes y programas de gobierno; atención de las necesidades públicas
+{:.main-letter}
+L
+
+a contratación pública es un proceso establecido para el acuerdo entre el oferente y una institución pública para la prestación de un servicio o el suministro de bienes. En el proceso se involucran diversos aspectos, técnicos, presupuestarios y jurídicos, con el fin de cumplir con planes y programas de gobierno; atención de las necesidades públicas
 {:.text-center}
 Según la OCDE, en el 2020 las compras públicas representaron en Costa Rica un 12.5% del PIB y un 30% de los gastos de la administración pública. Es decir, la contratación administrativa es fundamental para la prestación efectiva de servicios ya que impacta fuertemente en la economía.
 {:.text-center}
-La transparencia es importante en los procesos de contratación puesto que previene la corrupción, provee eficiencia, fomenta los principios de igualdad, publicidad, concurrencia, no discriminación y prohibición de la arbitrariedad de la Administración contratante. Además modifica el comportamiento tanto de los oferentes, los procedimientos y los externos que interactúan con ellos e incrementan la probabilidad de ser descubiertos en caso de cometer una acción contraria a los propósitos comunes (CGR, 2019). 
+La transparencia es importante en los procesos de contratación puesto que previene la corrupción, provee eficiencia, fomenta los principios de igualdad, publicidad, concurrencia, no discriminación y prohibición de la arbitrariedad de la Administración contratante. Además modifica el comportamiento tanto de los oferentes, los procedimientos y los externos que interactúan con ellos e incrementan la probabilidad de ser descubiertos en caso de cometer una acción contraria a los propósitos comunes (CGR, 2019).
 {:.text-center}
 
-### Principales Resultados del Proceso de Analisis 
+### Principales Resultados del Proceso de Analisis
 {:.text-center}

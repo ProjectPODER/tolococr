@@ -99,3 +99,15 @@ $font-size-sm:                ($font-size-base * .875) !default;
 $preloader-color1: $green;
 $preloader-color2: $blue;
 $preloader-color3: $red;
+
+.main-letter {
+  display: block;
+  float: left;
+  font-size: 80px;
+  margin-top: -8px;
+  margin-right: 5px;
+  margin-left: -5px;
+  line-height: 80px;
+  height: 50px;
+  font-weight: 700;
+}
