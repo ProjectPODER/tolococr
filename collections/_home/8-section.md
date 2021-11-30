@@ -38,4 +38,4 @@ En su elaboración han participado:
 
 + Análisis de datos: Queletzú Aspra
 
-+ Diseño gráfico y desarrollo Front-End: Marisol Carrillo, Carolina Fernández y Darío Espinoza. 
++ Diseño gráfico y desarrollo Front-End: Marisol Carrillo, Carolina Fernández y Darío Espinoza
