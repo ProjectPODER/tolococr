@@ -23,12 +23,24 @@ text-color: "#333333"
 ## METODOLOGÍA
 
 {:.main-letter}
-P
+E
 
-roin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+l sistema de evaluación Groucho ha sido desarrollado por PODER y funciona a partir de cualquier conjunto de datos que cumpla con el Estándar de Datos de Contrataciones Abiertas (OCDS, por sus siglas en inglés). Para su construcción se revisaron múltiples sistemas de evaluación a nivel mundial como RED FLAGS for integrity de la Open Contracting Partnership, el Laboratorio de innovación en la contratación pública, espacio de MediaLab-Prado, el sistema de Banderas de La Letra Menuda, realizado por Datasketch o el de Mihály Fazekas y su equipo. Dentro de todos estos sistemas, Groucho aporta dos novedades: 
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
++ Adaptación al contexto costarricense: El SICOP publica alrededor de 20 campos de datos por contrato. A éstos les falta información fundamental ubicada en otros sistemas de evaluación como el nombre de todos los ofertantes del contrato, el costo por ítem o información del contrato. Es por ello que solo se aplicaron las normas que se podían medir con el contenido de los datos vigentes. ##
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
++ La red forma parte de la evaluación: Partimos del supuesto de que una organización que realiza una mala práctica en un contrato es probable que intente volver a realizarla en otro contrato. Es por eso que uno de los factores que influencian la puntuación de una organización dada es el promedio de las evaluaciones de contratos de las organizaciones con las que tiene contratos. ##
+
+## El proceso de evaluación consta de 4 subprocesos:
+
+1. Evaluación de las banderas de contrato sobre todos los contratos que tenemos
+2. Evaluación de las banderas de nodo sobre todas las dependencias 
+3. Creación de las medias para cada uno de los contratos y dependencias
+4. Bandera de confiabilidad
+
+Las pruebas que se corren están agrupadas en cinco categorías que describen el contrato ideal, entre ellas (i) cuenta con toda la información para entenderlo, (ii) todos los procesos se realizaron en tiempo, (iii) hubo una competencia abierta para ganarlo, (iv) el camino del dinero es trazable, y (v) todos los actores que participan en el proceso son confiables.
+
+
+
+
