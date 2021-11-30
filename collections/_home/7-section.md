@@ -65,7 +65,13 @@ A partir de ello se generaron 32 banderas con la siguiente desagregación:
 + **Fechas sospechosas**: El contrato se celebra o firma en fechas no laborables del gobierno o feriados oficiales. Bandera booleana (si/no).
 
 
+# Competitividad (3 banderas)
 
 
++ **Campos fundamentales**: Existe un proveedor con nombre válido y se especifica el tipo de procedimiento del contrato. Bandera en porcentaje.
+
++ **Empresas con domicilios en paraísos fiscales**: El contrato se realiza con una empresa de un país que se considera un paraíso fiscal. Se considera un paraíso fiscal si la puntuación en el [Secrecy Score del Financial Secrecy Index](https://fsi.taxjustice.net/en/introduction/fsi-2018-results) es superior a 66, promedio mundial. Bandera booleana (si/no).
+
++ **Estimación fuera de rango**: El monto estimado para este contrato está alejado del monto del contrato, lo que podría haber permitido un proceso menos competitivo del apropiado. 
 
 
