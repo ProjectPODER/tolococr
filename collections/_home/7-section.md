@@ -47,11 +47,11 @@ A partir de ello se generaron 32 banderas con la siguiente desagregación:
 # Transparencia (4 banderas)
 
 
-+ OCDS válido: Los datos cumplen con el Estándar de Datos de Contrataciones Abiertas según la [Herramienta de revisión de datos](https://standard.open-contracting.org/review/) de la OCP. Bandera booleana (si/no).
++ **OCDS válido**: Los datos cumplen con el Estándar de Datos de Contrataciones Abiertas según la [Herramienta de revisión de datos](https://standard.open-contracting.org/review/) de la OCP. Bandera booleana (si/no).
 
-+ Campos OCDS completos: La OCP define que un proceso de contratación tiene 325 campos, en esta bandera medimos cuántos de ellos tiene completos. Bandera en porcentaje.
++ **Campos OCDS completos**: La OCP define que un proceso de contratación tiene 325 campos, en esta bandera medimos cuántos de ellos tiene completos. Bandera en porcentaje.
 
-+ Secciones completas: La OCP explica el proceso de contratación en cinco pasos: planificación, licitación, convocatoria, contratación e implementación. La bandera mide que al menos haya un dato para cada uno de los pasos del proceso. Bandera en porcentaje. 
++ **Secciones completas**: La OCP explica el proceso de contratación en cinco pasos: planificación, licitación, convocatoria, contratación e implementación. La bandera mide que al menos haya un dato para cada uno de los pasos del proceso. Bandera en porcentaje. 
 
 
 
