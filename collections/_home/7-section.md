@@ -28,9 +28,9 @@ E
 l sistema de evaluación Groucho ha sido desarrollado por PODER y funciona a partir de cualquier conjunto de datos que cumpla con el Estándar de Datos de Contrataciones Abiertas (OCDS, por sus siglas en inglés). Para su construcción se revisaron múltiples sistemas de evaluación a nivel mundial como RED FLAGS for integrity de la Open Contracting Partnership, el Laboratorio de innovación en la contratación pública, espacio de MediaLab-Prado, el sistema de Banderas de La Letra Menuda, realizado por Datasketch o el de Mihály Fazekas y su equipo. Dentro de todos estos sistemas, Groucho aporta dos novedades: 
 
 
-+ Adaptación al contexto costarricense: El SICOP publica alrededor de 20 campos de datos por contrato. A éstos les falta información fundamental ubicada en otros sistemas de evaluación como el nombre de todos los ofertantes del contrato, el costo por ítem o información del contrato. Es por ello que solo se aplicaron las normas que se podían medir con el contenido de los datos vigentes. ##
++ Adaptación al contexto costarricense: El SICOP publica alrededor de 20 campos de datos por contrato. A éstos les falta información fundamental ubicada en otros sistemas de evaluación como el nombre de todos los ofertantes del contrato, el costo por ítem o información del contrato. Es por ello que solo se aplicaron las normas que se podían medir con el contenido de los datos vigentes. 
 
-+ La red forma parte de la evaluación: Partimos del supuesto de que una organización que realiza una mala práctica en un contrato es probable que intente volver a realizarla en otro contrato. Es por eso que uno de los factores que influencian la puntuación de una organización dada es el promedio de las evaluaciones de contratos de las organizaciones con las que tiene contratos. ##
++ La red forma parte de la evaluación: Partimos del supuesto de que una organización que realiza una mala práctica en un contrato es probable que intente volver a realizarla en otro contrato. Es por eso que uno de los factores que influencian la puntuación de una organización dada es el promedio de las evaluaciones de contratos de las organizaciones con las que tiene contratos. 
 
 ## El proceso de evaluación consta de 4 subprocesos:
 
