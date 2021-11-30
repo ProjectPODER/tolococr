@@ -23,12 +23,14 @@ text-color: "#333333"
 ## SOBRE EL PROYECTO
 
 {:.main-letter}
-B
+T
 
-roin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+odos Los Contratos CR es una iniciativa del entre Innovaap-UCR y PODER con el apoyo de Hivos Latinoamérica. Fue desarrollado sobre los datos publicados en el Sistema Integrado de Compras Públicas. 
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
-
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
-
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+En su elaboración han participado:
+Dirección y conceptualización: Eduard Martín-Borregón y Jorge Umaña
+Coordinación Técnica: Martín Szyszlican
+Apoyo técnico y conceptual: Alejandro Leitón y Ernesto Valladares
+Desarrollo Back-End: Fernando Matzdorf
+Análisis de datos: Queletzú Aspra
+Diseño gráfico y desarrollo Front-End: Marisol Carrillo, Carolina Fernández y Darío Espinoza. 
