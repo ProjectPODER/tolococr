@@ -43,6 +43,7 @@ article-content2:
 
 {:.main-letter}
 L
+
 as instituciones públicas en Costa Rica de Administración Central y Descentralizada están obligadas por la Directriz Presidencial N° 025-H, a efectuar toda actividad de contratación ordinaria o exceptuada únicamente a través de la plataforma del Sistema Integrado de Compras Públicas (SICOP). 
 
 De este sistema se extraen los datos de las adjudicaciones desde el año 2010 hasta el día de hoy en tiempo real. Todas estas adjudicaciones fueron procesadas por el sistema de evaluación de banderas para determinar el cumplimiento de cuatro categorías definidas para calcular el desempeño de cada institución. 
