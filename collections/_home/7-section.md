@@ -44,6 +44,7 @@ Las pruebas que se corren están agrupadas en cinco categorías que describen el
 
 A partir de ello se generaron 32 banderas con la siguiente desagregación:
 
+
 # Transparencia (4 banderas)
 
 
@@ -52,6 +53,17 @@ A partir de ello se generaron 32 banderas con la siguiente desagregación:
 + **Campos OCDS completos**: La OCP define que un proceso de contratación tiene 325 campos, en esta bandera medimos cuántos de ellos tiene completos. Bandera en porcentaje.
 
 + **Secciones completas**: La OCP explica el proceso de contratación en cinco pasos: planificación, licitación, convocatoria, contratación e implementación. La bandera mide que al menos haya un dato para cada uno de los pasos del proceso. Bandera en porcentaje. 
+
+
+# Temporalidad (6 banderas)
+
+
++ **Campos fundamentales**: Existe una fecha válida en los campos publicación de la oportunidad, adjudicación de contrato, inicio de contrato y fin de contrato. Bandera en porcentaje.
+
++ **Duración del contrato excesivamente larga**: La diferencia entre el inicio y el fin del contrato supera los 1000 días. Bandera booleana (si/no).
+
++ **Fechas sospechosas**: El contrato se celebra o firma en fechas no laborables del gobierno o feriados oficiales. Bandera booleana (si/no).
+
 
 
 
