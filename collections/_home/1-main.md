@@ -2,6 +2,8 @@
 title: Inicio
 main-section: true
 main-logo: todosloscontratoscr-logo-blanco.png
+image: christa-dodoo-MldQeWmF2_g-unsplash.jpg
+
 
 # Column options
 one-column-section: true
