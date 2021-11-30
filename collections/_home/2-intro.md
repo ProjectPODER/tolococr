@@ -27,7 +27,7 @@ background-color: "#ffffff"
 text-color: "#333333"
 
 # Article information
-articles: true
+articles: false 
 articles-section:
   background-color: "#EFEFEF"
 # Article 1
