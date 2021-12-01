@@ -8,8 +8,8 @@ media-type:
   link: 
 
 # Column options
-one-column-section: true
-two-columns-section: false
+one-column-section: false
+two-columns-section: true
 # If two columns is true
 # Media position
 media-left: true
@@ -18,7 +18,7 @@ background-color: "#ffffff"
 text-color: "#ffffff"
 
 # Article information
-articles: true
+articles: false
 articles-section:
   background-color: "#EFEFEF"
 # Article 1
