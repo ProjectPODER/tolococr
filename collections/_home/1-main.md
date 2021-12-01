@@ -29,5 +29,7 @@ media-left: false
 
 Todos los Contratos CR es una plataforma que agrupa, analiza y evalúa los datos de las contrataciones alojadas en el Sistema Integrado de Compras Públicas (SICOP). Este espacio se pone a disposición con el fin de promover la vigilancia, prevenir la corrupción y la mejora de los procesos de contratación administrativa. Explore, investigue, utilice los datos y sea parte de la vigilancia ciudadana.
 
+[Botón 3](https://todosloscontratos.ucr.ac.cr/#sistema-de-banderas)
+
 
 
