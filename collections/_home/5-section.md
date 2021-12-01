@@ -15,8 +15,8 @@ two-columns-section: false
 media-center: true
 
 # Section background and text colors
-background-color: "#ffffff"
-text-color: "#333333"
+background-color: "#006607"
+text-color: "#ffffff"
 
 # Article information
 articles: false
