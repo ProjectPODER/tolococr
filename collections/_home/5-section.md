@@ -16,7 +16,7 @@ media-center: true
 
 # Section background and text colors
 background-color: "#ffffff"
-text-color: "#ffffff"
+text-color: "#333333"
 
 # Article information
 articles: false
