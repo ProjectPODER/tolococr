@@ -24,7 +24,7 @@ text-color: "#ffffff"
 
 ---
 {:.text-center}
-## HIGHLIGHT SECTION
+## Resultados con las banderas aplicadas
 
 {:.main-letter}
 
