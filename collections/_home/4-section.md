@@ -1,6 +1,7 @@
 ---
 title: Section 4
 # Media section
+title: Historico del comportamiento de los contratos en SICOP
 media: true
 media-type: # Fill only one option
   image:
