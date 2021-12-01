@@ -42,7 +42,7 @@ l sistema de evaluación Groucho ha sido desarrollado por PODER y funciona a par
 Las pruebas que se corren están agrupadas en cinco categorías que describen el contrato ideal, entre ellas (i) cuenta con toda la información para entenderlo, (ii) todos los procesos se realizaron en tiempo, (iii) hubo una competencia abierta para ganarlo, (iv) el camino del dinero es trazable, y (v) todos los actores que participan en el proceso son confiables.
 
 
-A partir de ello se generaron 32 banderas con la siguiente desagregación:
+###### A partir de ello se generaron 32 banderas con la siguiente desagregación:
 
 
 # Transparencia (4 banderas)
@@ -75,3 +75,4 @@ A partir de ello se generaron 32 banderas con la siguiente desagregación:
 + **Estimación fuera de rango**: El monto estimado para este contrato está alejado del monto del contrato, lo que podría haber permitido un proceso menos competitivo del apropiado. 
 
 
+# 
