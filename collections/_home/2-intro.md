@@ -1,6 +1,6 @@
 ---
 title: Introducción
-cta-button-section: true
+cta-button-section: false
 button:
   link: "https://projectpoder.github.io/tolococr/"
   text: "Botón"
