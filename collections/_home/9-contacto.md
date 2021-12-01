@@ -2,7 +2,7 @@
 title: Contacto
 cta-button-section: true
 button:
-  link: "http://innovaap.ucr.ac.cr/"
+  link: "http://innovaap.ucr.ac.cr/contactenos//"
   text: "Contacto"
 
 # Column options
