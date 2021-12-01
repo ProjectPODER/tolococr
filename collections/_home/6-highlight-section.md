@@ -24,7 +24,7 @@ text-color: "#ffffff"
 
 ---
 {:.text-center}
-## HIGHLIGHT SECTION
+## Tabla de datos con las banderas aplicadas
 
 {:.main-letter}
 
