@@ -1,5 +1,11 @@
 ---
 title: Inicio
+
+cta-button-section: true
+button:
+  link: "https://projectpoder.github.io/tolococr/"
+  text: "Botón"
+
 main-section: true
 main-logo: todosloscontratoscr-logo-blanco.png
 image: christa-dodoo-MldQeWmF2_g-unsplash.jpg
