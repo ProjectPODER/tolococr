@@ -9,7 +9,7 @@ media-type:
 
 # Column options
 one-column-section: false
-two-columns-section: false
+two-columns-section: true
 # If two columns is true
 # Media position
 media-left: true
