@@ -1,5 +1,5 @@
 ---
-title: Section 5
+title: Sistema de banderas
 # Media section
 media: true
 media-type:
@@ -8,8 +8,8 @@ media-type:
   link: 
 
 # Column options
-one-column-section: false
-two-columns-section: true
+one-column-section: true
+two-columns-section: false
 # If two columns is true
 # Media position
 media-left: true
