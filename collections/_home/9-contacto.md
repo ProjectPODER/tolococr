@@ -43,5 +43,6 @@ Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie,
 
 <!--End mc_embed_signup-->
 
+<a class="btn btn-secondary" href="https://projectpoder.github.io/tolococr/" target="_blank">Botón</a>
 
 [Botón 3](https://projectpoder.github.io/tolococr/)
