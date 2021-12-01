@@ -12,7 +12,7 @@ one-column-section: false
 two-columns-section: true
 # If two columns is true
 # Media position
-media-left: true
+media-center: true
 # Section background and text colors
 background-color: "#ffffff"
 text-color: "#ffffff"
