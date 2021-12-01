@@ -5,11 +5,6 @@ button:
   link: "https://projectpoder.github.io/tolococr/"
   text: "Botón"
 
-cta-button-section: true
-button:
-  link: "https://projectpoder.github.io/tolococr/"
-  text: "Botón 2"
-
 # Column options
 one-column-section: true
 
