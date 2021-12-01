@@ -17,7 +17,7 @@ text-color: "#333333"
 {:.text-center}
 ## CONTACTO
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Si te gustaría hacer crecer la iniciativa, conoces más información o quieres desarrollar una iniciativa a partir de este proyecto, no dudes en contactarnos
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7_dtp.css" rel="stylesheet" type="text/css">
