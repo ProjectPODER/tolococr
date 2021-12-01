@@ -1,7 +1,7 @@
 ---
 title: Sistema de banderas
 # Media section
-media: true
+media: false
 media-type:
   image:
   iframe:
