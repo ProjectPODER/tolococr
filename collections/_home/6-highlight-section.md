@@ -1,5 +1,5 @@
 ---
-title: Highlight
+title: Tabla de datos con las banderas aplicadas
 cta-button-section: true
 button:
   link: "https://projectpoder.github.io/tolococr/"
@@ -27,6 +27,4 @@ text-color: "#ffffff"
 ## HIGHLIGHT SECTION
 
 {:.main-letter}
-T
 
-abla de datos con las banderas aplicadas
