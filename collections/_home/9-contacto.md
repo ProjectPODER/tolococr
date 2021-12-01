@@ -1,6 +1,6 @@
 ---
 title: Contacto
-cta-button-section: true
+cta-button-section: false
 button:
   link: "https://projectpoder.github.io/tolococr/"
   text: "Botón"
@@ -45,4 +45,4 @@ Si te gustaría hacer crecer la iniciativa, conoces más información o quieres 
 
 <a class="btn btn-secondary" href="https://projectpoder.github.io/tolococr/" target="_blank">Botón</a>
 
-[Botón 3](https://projectpoder.github.io/tolococr/)
+[Contacto](http://innovaap.ucr.ac.cr/contactenos/)
