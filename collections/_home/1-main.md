@@ -7,7 +7,7 @@ button:
   text: "Botón"
 
 cta-button-section: true
-button:
+button2:
   link: "https://projectpoder.github.io/tolococr/"
   text: "Botón"
 
