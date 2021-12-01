@@ -5,7 +5,7 @@ button:
   link: "https://projectpoder.github.io/tolococr/"
   text: "Botón"
 # Media section
-media: true
+media: false
 media-type:
   image: graphic-example1.png
   iframe:
@@ -64,5 +64,3 @@ Los títulos de los carteles de contratación en ocasiones no permiten determina
 
 ### 6. Direcciones físicas o domicilios
 Es común que los proveedores, tanto físicos como jurídicos no coloquen con exactitud las direcciones de sus oficinas, lo cual dificulta la comprensión de sus ubicaciones.
-
-
