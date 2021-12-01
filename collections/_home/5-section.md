@@ -48,13 +48,13 @@ L
 as instituciones públicas en Costa Rica de Administración Central y Descentralizada están obligadas por la Directriz Presidencial N° 025-H, a efectuar toda actividad de contratación ordinaria o exceptuada únicamente a través de la plataforma del Sistema Integrado de Compras Públicas (SICOP). 
 
 De este sistema se extraen los datos de las adjudicaciones desde el año 2010 hasta el día de hoy en tiempo real. Todas estas adjudicaciones fueron procesadas por el sistema de evaluación de banderas para determinar el cumplimiento de cuatro categorías definidas para calcular el desempeño de cada institución. 
-##### Transparencia
+## Transparencia
  Determina si la mayor cantidad de información está disponible, evalúa la cantidad de campos presentes en el estándar internacional de OCDS (Open Contracting Data Standard). En este caso, si no cumplen con todos los campos, se evalúa la presencia de la máxima cantidad de campos para Costa Rica.
-##### Temporalidad
+## Temporalidad
 Es la categoría en la que se evalúa el desempeño de las contrataciones respecto a la duración y fechas en las que son realizadas. Primero se evalúa si están presentes los campos y después se evalúa que las fechas presentes tengan sentido (que sean fechas completas) y que estas correspondan a fechas laborales.
-##### Trazabilidad
+## Trazabilidad
 Esta categoría permite evaluar si la información contenida en las bases de datos es rastreable, es decir que los nombres de los proveedores sean reales y que se puedan comparar con otros campos, que el título del contrato sea comprensible, etc.
-##### Competitividad
+## Competitividad
 Esta categoría trata de determinar si durante el proceso de contratación se respetaron los límites mínimos para promover la libre competencia entre los proveedores y se evalúa si hay marcadores que indiquen si se ha privilegiado algún proveedor.
-##### Confiabilidad
+## Confiabilidad
 Es una bandera que resume el desempeño de las contrapartes de la entidad con la cual se están realizando los contratos.
