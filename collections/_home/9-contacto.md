@@ -42,3 +42,7 @@ Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie,
 </div>
 
 <!--End mc_embed_signup-->
+
+
+[Malas prácticas](https://todosloscontratos.ucr.ac.cr/#malas-practicas)
+[Metodología aplicada](https://todosloscontratos.ucr.ac.cr/#metodologia)
