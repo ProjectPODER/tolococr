@@ -43,5 +43,5 @@ Si te gustaría hacer crecer la iniciativa, conoces más información o quieres 
 
 <!--End mc_embed_signup-->
 
-<a class="btn btn-secondary" href="https://projectpoder.github.io/tolococr/" target="_blank">Botón</a>
+
 
