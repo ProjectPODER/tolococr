@@ -14,7 +14,7 @@ two-columns-section: false
 media-left: false
 # Section background and text colors
 background-color: "#ffffff"
-text-color: "#ffffff"
+text-color: "#333333"
 
 ---
 
