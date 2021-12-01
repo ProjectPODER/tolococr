@@ -45,6 +45,7 @@ Las pruebas que se corren están agrupadas en cinco categorías que describen el
 ###### A partir de ello se generaron 32 banderas con la siguiente desagregación:
 
 
+
 # Transparencia (4 banderas)
 
 
