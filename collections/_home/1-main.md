@@ -19,4 +19,4 @@ Todos los Contratos CR es una plataforma que agrupa, analiza y evalúa los datos
 
 
 [Malas prácticas](https://todosloscontratos.ucr.ac.cr/#malas-practicas)
-[Metodología](https://todosloscontratos.ucr.ac.cr/#metodologia)
+[Metodología aplicada](https://todosloscontratos.ucr.ac.cr/#metodologia)
