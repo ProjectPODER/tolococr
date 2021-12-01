@@ -20,7 +20,5 @@ text-color: "#333333"
 
 ## Histórico del comportamiento de los contratos en SICOP 
 
-{:.main-letter}
-U
 
-no de los principales hallazgos, es que el sistema de compras públicas en Costa Rica no es bien planificado por las instituciones, pues la mayoría de los contratos se consolidan en los ultimos meses del año.
+Uno de los principales hallazgos, es que el sistema de compras públicas en Costa Rica **no es bien planificado** por las instituciones, pues la mayoría de los contratos se consolidan en los ultimos meses del año.
