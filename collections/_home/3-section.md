@@ -47,23 +47,22 @@ article-content2:
 T
 
 op 6 errores de los datos alojados en SICOP vistos desde el estándar OCDS (Open Contracting Data Standard):
-### 1. Falta de estandarización
-los datos alojados en SICOP carecen de un protocolo de digitación y publicación, lo que genera errores típicos como nombres de instituciones y proveedores escritos con diferencias o números de cédulas en formatos distintos.
+### 1. Falta de estandarización.
+Los datos alojados en SICOP carecen de un protocolo de digitación y publicación, lo que genera errores típicos como nombres de instituciones y proveedores escritos con diferencias o números de cédulas en formatos distintos.
 
 ### 2. Incongruencias entre los montos públicados
-algunos contratos repor
-tan importes muy distintos a los realmente pagados, esto se debe a omisiones de números, colocación de puntos y comas o errores de digitación.
+Algunos contratos reportan importes muy distintos a los realmente pagados, esto se debe a omisiones de números, colocación de puntos y comas o errores de digitación.
 
 ### 3. Importes sospechosos
-algunos procesos reportan sumas contratadas por un colón o directamente sin monto, lo que afecta los análisis finales.
+Algunos procesos reportan sumas contratadas por un colón o directamente sin monto, lo que afecta los análisis finales.
 
 ### 4. Duración de los contratos
-las instituciones suelen reportar sus contratos en la plataforma con datos que no permiten su comprensión, por ejemplo períodos de contratos en los cuales no se distingue si hace referencia a meses, años, semanas o escasas cuantías.
+Las instituciones suelen reportar sus contratos en la plataforma con datos que no permiten su comprensión, por ejemplo períodos de contratos en los cuales no se distingue si hace referencia a meses, años, semanas o escasas cuantías.
 
 ### 5. Nombres de los contratos
-los títulos de los carteles de contratación en ocasiones no permiten determinar cuál será la obra a realizar. Algunos presentan títulos poco descriptivos o con ambigüedad.
+Los títulos de los carteles de contratación en ocasiones no permiten determinar cuál será la obra a realizar. Algunos presentan títulos poco descriptivos o con ambigüedad.
 
 ### 6. Direcciones físicas o domicilios
-es común que los proveedores, tanto físicos como jurídicos no coloquen con exactitud las direcciones de sus oficinas, lo cual dificulta la comprensión de sus ubicaciones.
+Es común que los proveedores, tanto físicos como jurídicos no coloquen con exactitud las direcciones de sus oficinas, lo cual dificulta la comprensión de sus ubicaciones.
 
 
