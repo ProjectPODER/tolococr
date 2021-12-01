@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tower Builder
+title: Todos los Contratos CR
 
 # Logo image
-image: tb-logo.png
+image:
 
 #Description of your site
 description: >-
-  TowerBuilder is a system to generate websites with data visualizations that mix open contracting and beneficial ownership data, all without requiring programming knowledge.
+  Todos los Contratos CR es una plataforma que agrupa, analiza y evalúa los datos de las contrataciones alojadas en el Sistema Integrado de Compras Públicas (SICOP). Este espacio se pone a disposición con el fin de promover la vigilancia, prevenir la corrupción y la mejora de los procesos de contratación administrativa. Explore, investigue, utilice los datos y sea parte de la vigilancia ciudadana.
 
 # URL of your contracts file or API endpoint
 contracts_url: "/assets/data/contracts.csv"
