@@ -4,6 +4,12 @@ cta-button-section: true
 button:
   link: "https://projectpoder.github.io/tolococr/"
   text: "Botón"
+  
+cta-button-section: true
+button:
+  link: "https://projectpoder.github.io/tolococr/"
+  text: "Botón 2"
+  
 # Highlight section options
 highlight-section: true
 highlight-section-background: "#006607"
