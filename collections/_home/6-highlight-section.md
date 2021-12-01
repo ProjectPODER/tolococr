@@ -5,10 +5,10 @@ button:
   link: "https://projectpoder.github.io/tolococr/"
   text: "Botón"
   
-cta-button-section: true
+
 button:
   link: "https://projectpoder.github.io/tolococr/"
-  text: "Botón 2"
+  text: "Botón 3"
   
 # Highlight section options
 highlight-section: true
