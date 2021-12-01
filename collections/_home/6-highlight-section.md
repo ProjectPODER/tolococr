@@ -1,5 +1,5 @@
 ---
-title: Tabla de datos con las banderas aplicadas
+title: Resultados con las banderas aplicadas
 cta-button-section: true
 button:
   link: "https://www.quienesquien.wiki/es/buscador?collection=all&name=&tipo-entidad=&pais=cr&fuente=&size=&sort-all=summaries.classification.company%2Ccontract_amount.supplier%2Cpurchase_amount.product%2Csummaries.classification.shareholder%2Csummaries.classification.boardmember%2Ccontracts.value.amount%2Ccontract_amount.buyer"
