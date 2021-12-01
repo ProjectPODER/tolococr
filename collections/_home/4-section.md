@@ -14,13 +14,11 @@ two-columns-section: false
 media-left: false
 # Section background and text colors
 background-color: "#ffffff"
-text-color: "#ffffff"
+text-color: "#333333"
 
 ---
 
-### Cat ipsum dolor sit amet, that box
+## Histórico del comportamiento de los contratos en SICOP 
 
-{:.main-letter}
-P
 
-roin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Uno de los principales hallazgos, es que el sistema de compras públicas en Costa Rica **no es bien planificado** por las instituciones, pues la mayoría de los contratos se consolidan en los ultimos meses del año.
