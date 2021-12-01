@@ -5,10 +5,6 @@ button:
   link: "https://projectpoder.github.io/tolococr/"
   text: "Botón"
   
-
-button:
-  link: "https://projectpoder.github.io/tolococr/"
-  text: "Botón 3"
   
 # Highlight section options
 highlight-section: true
