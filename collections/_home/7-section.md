@@ -76,4 +76,29 @@ Las pruebas que se corren están agrupadas en cinco categorías que describen el
 + **Estimación fuera de rango**: El monto estimado para este contrato está alejado del monto del contrato, lo que podría haber permitido un proceso menos competitivo del apropiado. 
 
 
-# 
+# Trazabilidad (8 banderas)
+
++ **Campos Fundamentales**: Tiene algún dato que relaciona al contrato con presupuesto y los distintos actores que participan en el contrato están identificados. Bandera en porcentaje.
+
++ **Nombre atípico del proveedor**: El nombre que la empresa proveedora carga, digita o inscribe de una manera irreconocible e inaceptable para un proceso de contratación, por ejemplo una dirección web (URL).
+
++ **Consorcios pseudónimos**: La cédula de un proveedor bajo una figura de consorcio debe iniciar con “12”, sin embargo no en todos los casos esto sucede. Como no existe un registro de consorcios, estos no permiten la trazabilidad de los proveedores.
+
++ **Modificaciones al contrato**: El contrato ha sufrido modificaciones una vez ha sido publicado. Bandera booleana (si/no).
+
++ **Dirección del proveedor**: Se levanta una alerta o inconsistencia cuando la dirección del proveedor no se especifica de manera completa.
+
++ **Importe redondeado**: El importe del contrato es un múltiplo de 10 000 colones. Bandera booleana (si/no).
+
++ **Comprensión del título**: El título es descriptivo, claro y preciso para ser entendido por externos al proceso de contratación, no solamente está compuesto de códigos o abreviaciones. Bandera booleana (si/no).
+
++ **Sin estimación de monto**: El monto estimado del contrato no existe en los datos. Bandera con valor de 0 o 1
+
+
+# Confiabilidad (11 banderas)
+
+
++ Este cálculo se hace luego de correr todas las evaluaciones de contrato y antes de las de nodo. Se asigna una puntuación total a los contratos de cada parte, y se promedia esa puntuación por cada una de las partes con las que ha tenido relación.
+
+
+
