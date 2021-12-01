@@ -12,7 +12,6 @@ two-columns-section: false
 # Media position
 media-left: false
 
-[Maas prácticas](https://todosloscontratos.ucr.ac.cr/#malas-practicas)
 
 ---
 
