@@ -40,7 +40,7 @@ article-content2:
   link: https://github.com/ProjectPODER
 ---
 
-### Sistema de banderas 
+# Sistema de banderas 
 
 {:.main-letter}
 L
