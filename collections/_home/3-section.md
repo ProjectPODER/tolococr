@@ -41,7 +41,7 @@ article-content2:
 ---
 
 {:.text-center}
-## Malas practicas
+## MALAS PRÁCTICAS
 
 {:.main-letter}
 T
