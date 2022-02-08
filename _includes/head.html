@@ -19,4 +19,14 @@
   <script>
     window.graphConfig = {{ site.graph | jsonify }};
   </script>
+ 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QKD837W19H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QKD837W19H');
+</script>
 </head>
