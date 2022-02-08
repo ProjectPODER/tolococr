@@ -8,13 +8,13 @@
           {%- if footer-section.title -%}
           <h5 class="footer-title">{{ footer-section.title }}</h5>
           {%- endif -%}
-          <a href="{{footer-section.logo-link}}">
+          <a href="{{footer-section.logo-link}}" target="_blank">
             <img class="footer-logo" style="width:{{footer-section.width-logo}};"
               src="{{ site.baseurl }}/assets/img/{{footer-section.image-logo}}" alt="{{ footer-section.image-name }}">
           </a>
 
           {%- if footer-section.image-name2 -%}
-          <a href="{{footer-section.logo-link2}}">
+          <a href="{{footer-section.logo-link2}}" target="_blank">
             <img class="footer-logo" style="width:{{footer-section.width-logo2}};" src="{{ site.baseurl }}/assets/img/{{footer-section.image-logo2}}"
               alt="{{ footer-section.image-name2 }}">
           </a>

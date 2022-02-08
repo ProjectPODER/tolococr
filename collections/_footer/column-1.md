@@ -8,5 +8,5 @@ logo-link: https://poderlatam.org/
 image-logo2: Innovaap_logo.png
 image-name2: Logo de Innovaap
 width-logo2: 170px
-logo-link: http://innovaap.ucr.ac.cr/
+logo-link2: http://innovaap.ucr.ac.cr/
 ---
